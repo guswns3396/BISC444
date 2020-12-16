@@ -1,0 +1,6 @@
+*.docx
+.Rhistory
+__MACOSX
+.ipynb_checkpoints
+*.pptx
+*.zip
